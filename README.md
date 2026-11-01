@@ -1,4 +1,4 @@
-Hey, I'm SleepyHenry! 👋
+Hey, I'm SleepyHenry
 
 🎮 Minecraft Java Edition Developer
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I'm a developer who enjoys creating Minecraft projects, experimenting with code, and building useful tools for the Minecraft community.
 
-🚀 What I Do
+What I Do
 
 Minecraft Mods
 
@@ -18,6 +18,9 @@ Datapacks
 
 Custom Maps & Worlds
 
-Python Tools
-
 Minecraft-related Projects
+
+so contact me in discord if you like @aloneman0153
+
+also heres my TON wallet it you support
+UQAlcxwPB10VyEMKaAY_aMo19ExdULJ_iSt8qz6HfJUlEIRQ
